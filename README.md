@@ -34,5 +34,5 @@ Start by downloading the project and run "NetflixMoviesRecommendation.ipynb" fil
 * XGBoost - Used for making regression models
 *	Surprise - used for making recommendation system models
 
-Authors
-Teja Surya H
+## Author
+* Teja Surya H
